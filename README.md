@@ -1,4 +1,4 @@
 ickl.me
 =======
 
-Glen Campbell - http://glen-campbell.com
+&copy;2013 Glen Campbell - http://glen-campbell.com
