@@ -1,0 +1,4 @@
+# .htaccess file to redirect if necessary
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^/(.+)$ /redirect.php?id=$1 [L]
